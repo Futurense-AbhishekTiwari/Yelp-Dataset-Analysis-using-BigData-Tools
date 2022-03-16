@@ -60,7 +60,7 @@ Hence we will take number of bucket = 5
 ![image](https://user-images.githubusercontent.com/100192236/158611143-69a81941-23f4-4d82-b1d1-27b1d40edf95.png)
 
 #### Average Rating of business per year
-![image](https://user-images.githubusercontent.com/100192236/158611219-a77ddf91-f8c0-41f4-93a0-3132dcff855d.png)
+![image](https://user-images.githubusercontent.com/100192236/158611924-77a07bdd-a90a-4911-878f-8e1af5ed2efa.png)
 
 #### Top users who posted funny reviews
 ![image](https://user-images.githubusercontent.com/100192236/158611455-adf6b1a9-cd5f-4867-a580-5c8fce4261ec.png)
